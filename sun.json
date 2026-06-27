@@ -1,0 +1,382 @@
+{
+  "id": "sun-maimecat",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@maimecat Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_8b59f6a8edd1",
+    "display_name": "maimecat",
+    "user_id": "@maimecat",
+    "description": "Community Archive-derived proof-of-search sun for @maimecat.",
+    "document_count": 15293,
+    "word_count": 208633,
+    "active_days": 3407,
+    "emissions": [
+      "Cat",
+      "Spike_Cat",
+      "Maime",
+      "Good",
+      "Lol",
+      "Time"
+    ],
+    "generated_at": "2026-06-27T16:34:28.600780+00:00",
+    "color": "#f59e0b",
+    "mass": 12.248
+  },
+  "planets": [
+    {
+      "id": "planet_39e0010e1274",
+      "name": "Cat",
+      "summary": "Archive cluster around cat: 12635 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "cat",
+        "cats",
+        "photo",
+        "don",
+        "know"
+      ],
+      "artifacts": [
+        {
+          "id": "art_6c7732da5949",
+          "title": "Cat receipt from 2024-07-21",
+          "excerpt": "@robreiner Sad that you were the FIRST to turn on him…. Shame SHAMEFUL!",
+          "source_document_id": "1815144795859292476",
+          "timestamp": "2024-07-21T22:00:17+00:00",
+          "url": "https://x.com/maimecat/status/1815144795859292476",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: cat, cats, photo, don."
+        },
+        {
+          "id": "art_fb4099016911",
+          "title": "Cat receipt from 2024-08-20",
+          "excerpt": "@robreiner You threw him under the bus back in July. https://t.co/7kZmq7tAG4",
+          "source_document_id": "1825770281207562563",
+          "timestamp": "2024-08-20T05:42:10+00:00",
+          "url": "https://x.com/maimecat/status/1825770281207562563",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: cat, cats, photo, don."
+        },
+        {
+          "id": "art_a29f3b9f6ee1",
+          "title": "Cat receipt from 2014-02-25",
+          "excerpt": "A 13-year-old Girl Scout in San Francisco recently set up shop outside a marijuana clinic -sold 117 boxes in 2 hours. http://t.co/Cyf8oZ9Zg8",
+          "source_document_id": "438274671679520768",
+          "timestamp": "2014-02-25T11:29:59+00:00",
+          "url": "https://x.com/maimecat/status/438274671679520768",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: cat, cats, photo, don."
+        },
+        {
+          "id": "art_97a1340eb57d",
+          "title": "Cat receipt from 2014-02-22",
+          "excerpt": "Nobody evar retweets my pic http://t.co/P09cLPR9kU",
+          "source_document_id": "437248220364673024",
+          "timestamp": "2014-02-22T15:31:14+00:00",
+          "url": "https://x.com/maimecat/status/437248220364673024",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: cat, cats, photo, don."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_74ef1c46a4d7",
+      "proof_score": 1,
+      "mass": 36.027,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_62a43a2d2c13",
+      "name": "Spike_Cat",
+      "summary": "Archive cluster around spike_cat: 687 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "spike_cat",
+        "spike",
+        "lilyluwhot",
+        "shivaandjaya",
+        "furkidmom"
+      ],
+      "artifacts": [
+        {
+          "id": "art_7b79faffa02b",
+          "title": "Spike_Cat receipt from 2016-08-02",
+          "excerpt": "/Maime slides @spike_cat and Oranje some extremely potent nip. Kay guys, no biting, cowch clawing or peeing! ;&gt; https://t.co/cqQ5igfsd3",
+          "source_document_id": "760315698853937152",
+          "timestamp": "2016-08-02T03:26:03+00:00",
+          "url": "https://x.com/maimecat/status/760315698853937152",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: spike_cat, spike, lilyluwhot, shivaandjaya."
+        },
+        {
+          "id": "art_dc664f2cc55e",
+          "title": "Spike_Cat receipt from 2016-07-05",
+          "excerpt": "@spike_cat Cats only entrance! https://t.co/bNJDhtr8iV",
+          "source_document_id": "750281344165576706",
+          "timestamp": "2016-07-05T10:53:06+00:00",
+          "url": "https://x.com/maimecat/status/750281344165576706",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: spike_cat, spike, lilyluwhot, shivaandjaya."
+        },
+        {
+          "id": "art_c78011b4b37a",
+          "title": "Spike_Cat receipt from 2015-07-09",
+          "excerpt": "@onedrawingdaily Thomas Clausen's One Drawing Daily! Is fantastic! This is my favorite picture of @spike_cat my besty http://t.co/c6e97AHmsW",
+          "source_document_id": "619228250112413697",
+          "timestamp": "2015-07-09T19:34:54+00:00",
+          "url": "https://x.com/maimecat/status/619228250112413697",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: spike_cat, spike, lilyluwhot, shivaandjaya."
+        },
+        {
+          "id": "art_b4d8641b48ab",
+          "title": "Spike_Cat receipt from 2014-10-24",
+          "excerpt": "I just wanna know if @spike_cat still has his Halloween Jumper!? ;&gt; http://t.co/N08WBOrHKG",
+          "source_document_id": "525597580492013568",
+          "timestamp": "2014-10-24T10:40:02+00:00",
+          "url": "https://x.com/maimecat/status/525597580492013568",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: spike_cat, spike, lilyluwhot, shivaandjaya."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_ea2059411081",
+      "proof_score": 1,
+      "mass": 27.811,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_8bfb78a749a9",
+      "name": "Maime",
+      "summary": "Archive cluster around maime: 558 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "maime",
+        "lol",
+        "sez",
+        "well",
+        "day"
+      ],
+      "artifacts": [
+        {
+          "id": "art_53f036b03782",
+          "title": "Maime receipt from 2016-02-14",
+          "excerpt": "1.5 Maime's of snowfall here... https://t.co/jdWgZtAX6f",
+          "source_document_id": "698755852422025216",
+          "timestamp": "2016-02-14T06:29:12+00:00",
+          "url": "https://x.com/maimecat/status/698755852422025216",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: maime, lol, sez, well."
+        },
+        {
+          "id": "art_264215091710",
+          "title": "Maime receipt from 2016-10-31",
+          "excerpt": "Goodness gracious... Maime has been immortalized! https://t.co/CFWCwZlSkA",
+          "source_document_id": "793185783838638081",
+          "timestamp": "2016-10-31T20:20:02+00:00",
+          "url": "https://x.com/maimecat/status/793185783838638081",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: maime, lol, sez, well."
+        },
+        {
+          "id": "art_79d62fe87cf3",
+          "title": "Maime receipt from 2015-01-07",
+          "excerpt": "Metro Goldwyn Maime *Rawr* http://t.co/aCAuE1z1Kb",
+          "source_document_id": "552695167611072512",
+          "timestamp": "2015-01-07T05:16:11+00:00",
+          "url": "https://x.com/maimecat/status/552695167611072512",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: maime, lol, sez, well."
+        },
+        {
+          "id": "art_90e7fe20f2a3",
+          "title": "Maime receipt from 2016-12-24",
+          "excerpt": "Snoring Maime... https://t.co/zyYiOEAScy",
+          "source_document_id": "812493295846883329",
+          "timestamp": "2016-12-24T03:01:11+00:00",
+          "url": "https://x.com/maimecat/status/812493295846883329",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: maime, lol, sez, well."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_dca84b45eb06",
+      "proof_score": 0.983,
+      "mass": 27.344,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_6e2108c7bb70",
+      "name": "Good",
+      "summary": "Archive cluster around good: 540 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "pretty",
+        "time",
+        "too",
+        "see"
+      ],
+      "artifacts": [
+        {
+          "id": "art_f11d2b8d5c7a",
+          "title": "Good receipt from 2023-01-27",
+          "excerpt": "#PfizerExposed @CNN giving this story a darned good leaving alone...\n\nAnyone shocked? https://t.co/C6WeLqZ0G4",
+          "source_document_id": "1619094292210802688",
+          "timestamp": "2023-01-27T22:05:35+00:00",
+          "url": "https://x.com/maimecat/status/1619094292210802688",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, pretty, time, too."
+        },
+        {
+          "id": "art_5a7c18b0b010",
+          "title": "Good receipt from 2017-09-10",
+          "excerpt": "@HurricaneAlive @7trekky He has a full load of GOOD BOYS!!!",
+          "source_document_id": "906993239164641285",
+          "timestamp": "2017-09-10T21:30:13+00:00",
+          "url": "https://x.com/maimecat/status/906993239164641285",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, pretty, time, too."
+        },
+        {
+          "id": "art_544492c0cd03",
+          "title": "Good receipt from 2013-12-19",
+          "excerpt": "Good kitties... http://t.co/ZrcVMk2i5L",
+          "source_document_id": "413811688379408384",
+          "timestamp": "2013-12-19T23:22:49+00:00",
+          "url": "https://x.com/maimecat/status/413811688379408384",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, pretty, time, too."
+        },
+        {
+          "id": "art_236b005f69c0",
+          "title": "Good receipt from 2013-12-10",
+          "excerpt": "@BeavisCumia http://t.co/4j8TRLx2Wf \n-It's good to see Beavis providing a much needed service. ;&gt;",
+          "source_document_id": "410219622982381569",
+          "timestamp": "2013-12-10T01:29:14+00:00",
+          "url": "https://x.com/maimecat/status/410219622982381569",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, pretty, time, too."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_4fa4705ceee9",
+      "proof_score": 0.979,
+      "mass": 27.501,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_ac658b976163",
+      "name": "Lol",
+      "summary": "Archive cluster around lol: 497 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "lol",
+        "don",
+        "vampirekat",
+        "badandy_kitykat",
+        "time"
+      ],
+      "artifacts": [
+        {
+          "id": "art_bee9e154c523",
+          "title": "Lol receipt from 2024-10-10",
+          "excerpt": "@GrandpaHarris65 @DrMattBob lol your dumb neighbor stories are getting ratioed;&gt;",
+          "source_document_id": "1844183893626540165",
+          "timestamp": "2024-10-10T01:11:18+00:00",
+          "url": "https://x.com/maimecat/status/1844183893626540165",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lol, don, vampirekat, badandy_kitykat."
+        },
+        {
+          "id": "art_84af6e5634f2",
+          "title": "Lol receipt from 2014-03-03",
+          "excerpt": "@ZeroRice1012 @7trekky lol! The cats &gt; dogs thread is hilarious ;&gt;  Cheers you guys~! http://t.co/E6fo0qbcxa",
+          "source_document_id": "440312557820059649",
+          "timestamp": "2014-03-03T02:27:49+00:00",
+          "url": "https://x.com/maimecat/status/440312557820059649",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lol, don, vampirekat, badandy_kitykat."
+        },
+        {
+          "id": "art_96c90e5ce810",
+          "title": "Lol receipt from 2016-11-29",
+          "excerpt": "lol...  this just kills me! https://t.co/hJSeBWzvOh",
+          "source_document_id": "803399630885101568",
+          "timestamp": "2016-11-29T00:46:13+00:00",
+          "url": "https://x.com/maimecat/status/803399630885101568",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lol, don, vampirekat, badandy_kitykat."
+        },
+        {
+          "id": "art_d1ec4d22a4f8",
+          "title": "Lol receipt from 2022-03-06",
+          "excerpt": "@GMGIRL63 I stick mostly to Insta these days (Same username) -Tried to get Daniel to come over but not happening lol,",
+          "source_document_id": "1500555946891923461",
+          "timestamp": "2022-03-06T19:36:31+00:00",
+          "url": "https://x.com/maimecat/status/1500555946891923461",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lol, don, vampirekat, badandy_kitykat."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_da9993ff5ba8",
+      "proof_score": 0.971,
+      "mass": 26.643,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_31c1365f24bb",
+      "name": "Time",
+      "summary": "Archive cluster around time: 376 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "every",
+        "think",
+        "don",
+        "long"
+      ],
+      "artifacts": [
+        {
+          "id": "art_8d61e0133600",
+          "title": "Time receipt from 2024-11-03",
+          "excerpt": "@robreiner In a few days, you Democrats will have some time on your hands. Maybe you can look into prosecuting the Biden Family....",
+          "source_document_id": "1852880100397600967",
+          "timestamp": "2024-11-03T01:06:55+00:00",
+          "url": "https://x.com/maimecat/status/1852880100397600967",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, think, don."
+        },
+        {
+          "id": "art_0775395630e3",
+          "title": "Time receipt from 2015-06-15",
+          "excerpt": "Everybody pick a spot, it's all most time for #GameofThrones http://t.co/fKae0ZOhuF",
+          "source_document_id": "610246135173787648",
+          "timestamp": "2015-06-15T00:43:11+00:00",
+          "url": "https://x.com/maimecat/status/610246135173787648",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, think, don."
+        },
+        {
+          "id": "art_e171dd27267a",
+          "title": "Time receipt from 2016-07-12",
+          "excerpt": "So the big DB Cooper reveal is: \"Uh...  We don't know.\" -Nice waste of time. #History #DBCooper",
+          "source_document_id": "752698726762876928",
+          "timestamp": "2016-07-12T02:58:55+00:00",
+          "url": "https://x.com/maimecat/status/752698726762876928",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, think, don."
+        },
+        {
+          "id": "art_6ede41e0d092",
+          "title": "Time receipt from 2024-09-30",
+          "excerpt": "@_johnnymaga @AnthonyCumia It’s time! https://t.co/DHXFyhTQov",
+          "source_document_id": "1840851868903194917",
+          "timestamp": "2024-09-30T20:31:01+00:00",
+          "url": "https://x.com/maimecat/status/1840851868903194917",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, think, don."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_21b7384e11d8",
+      "proof_score": 0.943,
+      "mass": 26.929,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
